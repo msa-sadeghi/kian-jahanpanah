@@ -1,0 +1,11 @@
+print(1 + 2)
+print(7 - 3)
+print(7 * 3)
+print(7 / 3)
+print(7 // 3)
+print(7 % 3)
+print("arash")
+print('arash')
+
+name = input("enter a name ")
+print("hello", name)
